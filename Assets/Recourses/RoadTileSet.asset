@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3a0834fb4905624aa45f110a03b5c40, type: 3}
+  m_Name: RoadTileSet
+  m_EditorClassIdentifier: 
+  standalone: {fileID: 5661862354351878554, guid: 0cf01c743836d154eb47042e1bc62afd,
+    type: 3}
+  deadEnd: {fileID: 1120765361980748800, guid: 126bc1b54aa974c45b523eabbb58d51e, type: 3}
+  straight: {fileID: 5661862354351878554, guid: 0cf01c743836d154eb47042e1bc62afd,
+    type: 3}
+  corner: {fileID: 7077802812573144028, guid: fd4c97eb7b86f1149a7745204ed8904e, type: 3}
+  tJunction: {fileID: 2384947387477557946, guid: 2524a8437a2d4394da7f7a0546a71f3d,
+    type: 3}
+  cross: {fileID: 3351635067702010651, guid: f4402828bce58b54791119f89fa2df61, type: 3}
+  spanInCells: 2
+  tileScale: 4
+  heightOffset: 0.05

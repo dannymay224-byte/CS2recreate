@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ee39389a8984984292ec262bc809c5c, type: 3}
+  m_Name: Tree
+  m_EditorClassIdentifier: 
+  displayName: Tree
+  size: {x: 1, y: 1}
+  prefab: {fileID: 1494890967861158276, guid: a5ace000b848ff240ae6db60b0031fc8, type: 3}
+  groundRequirement: 0
+  allowRandomRotation: 1
+  requiresRoad: 0
+  roadSearchRing: 1
+  faceRoad: 0
+  cost: 0
